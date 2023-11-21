@@ -1,0 +1,48 @@
+[2023-11-20T01:02:29.560Z] MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:809:11)
+    at NativeConnection.openUri (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:784:11)
+[2023-11-20T01:03:04.997Z] MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:809:11)
+    at NativeConnection.openUri (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:784:11)
+[2023-11-20T01:06:16.259Z] MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:809:11)
+    at NativeConnection.openUri (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:784:11)
+[2023-11-20T01:13:45.391Z] MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:809:11)
+    at NativeConnection.openUri (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:784:11)
+[2023-11-20T01:14:32.136Z] MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:809:11)
+    at NativeConnection.openUri (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:784:11)
+[2023-11-20T01:15:13.297Z] MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:809:11)
+    at NativeConnection.openUri (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:784:11)
+[2023-11-20T01:37:27.160Z] MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:809:11)
+    at NativeConnection.openUri (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:784:11)
+[2023-11-20T01:38:04.114Z] MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:809:11)
+    at NativeConnection.openUri (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:784:11)
+[2023-11-20T01:38:35.268Z] MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:809:11)
+    at NativeConnection.openUri (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:784:11)
+[2023-11-20T01:48:58.112Z] MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:809:11)
+    at NativeConnection.openUri (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:784:11)
+[2023-11-21T01:02:35.363Z] MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:809:11)
+    at NativeConnection.openUri (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:784:11)
+[2023-11-21T01:03:41.706Z] MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:809:11)
+    at NativeConnection.openUri (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:784:11)
+[2023-11-21T01:05:56.264Z] MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:809:11)
+    at NativeConnection.openUri (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:784:11)
+[2023-11-21T01:07:24.966Z] MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:809:11)
+    at NativeConnection.openUri (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:784:11)
+[2023-11-21T01:08:53.637Z] MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:809:11)
+    at NativeConnection.openUri (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:784:11)
+[2023-11-21T01:11:28.205Z] MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:809:11)
+    at NativeConnection.openUri (C:\Users\The Beast of Chaos\Desktop\Carsup-Website\node_modules\mongoose\lib\connection.js:784:11)

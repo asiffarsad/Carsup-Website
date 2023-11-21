@@ -1,0 +1,99 @@
+.nav {
+    background-color: var(--secondary-color);
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.navbar {
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-between;
+}
+
+.navbar-brand {
+    text-decoration: none;
+    color: var(--main-color);
+    font-size: 23px;
+}
+
+.navbar-desktop {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.navbar-link {
+    color: var(--main-color);
+    font-size: 23px;
+    padding-right: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navbar-mobile-menu-button {
+    display: none;
+    cursor: pointer;
+}
+
+.navbar-mobile-menu-button-line {
+    display: block;
+    width: 30px;
+    height: 3px;
+    margin: 3px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background-color: var(--main-color);
+}
+
+.navbar-mobile {
+    display: grid;
+    overflow: hidden;
+    list-style-type: none;
+    max-height: 0vh;
+    transition: all 0.3s ease-in-out;
+}
+
+.navbar-mobile.active {
+    max-height: 100vh;
+}
+
+.navbar-link-mobile {
+    color: var(--main-color);
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    border-bottom: 1px solid var(--main-color);
+}
+
+@media (max-width: 992px) {
+    .navbar-mobile-menu-button {
+        display: block;
+    }
+    .navbar-desktop {
+        display: none;
+    }
+}
+
+.navbar-mobile-menu-button.active .navbar-mobile-menu-button-line:nth-child(1) {
+    transform: translateY(6.1px) rotate(40deg);
+}
+
+.navbar-mobile-menu-button.active .navbar-mobile-menu-button-line:nth-child(2) {
+    opacity: 0;
+}
+
+.navbar-mobile-menu-button.active .navbar-mobile-menu-button-line:nth-child(3) {
+    transform: translateY(-6.1px) rotate(-40deg);
+}
+
+.nav-brand {
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-between;
+}
+
+.nav-brand-info {
+    display: grid;
+    grid-template-columns: auto auto;
+}

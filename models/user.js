@@ -4,7 +4,7 @@ const mongoose = require("mongoose");
 const ROLES = {
     CUSTOMER: "customer",
     STAFF: "dealer",
-    MANAGER: "dealer",
+    MANAGER: "manager",
     ADMIN: "admin",
 };
 

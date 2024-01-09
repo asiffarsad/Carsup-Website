@@ -5,6 +5,7 @@ const router = express.Router();
 
 const generalGetControllers = require("../../controllers/generalGetControllers");
 
+
 // Define routes and middleware for the /general path
 router.get("/", generalGetControllers.showHomePage);
 

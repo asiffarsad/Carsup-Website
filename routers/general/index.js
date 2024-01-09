@@ -1,6 +1,7 @@
 const express = require("express");
 const router = express.Router();
 
-router.get("/", (req, res) => {});
+router.use(require("./general"));
+router.use(require("./api"));
 
 module.exports = router;

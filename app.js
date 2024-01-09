@@ -68,8 +68,8 @@ app.use(passport.session());
 require("./utils/passport")(passport);
 
 // Import the public and admin route modules
-const publicRoutes = require("./routers/public/index");
-const adminRoutes = require("./routers/admin/index");
+const publicRoutes = require("./routers/general/index");
+const adminRoutes = require("./routers/staff/index");
 
 // Use global error handler
 app.use((err, req, res, next) => {

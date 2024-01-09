@@ -6,7 +6,36 @@
 <body>
     <%- include('../templates/navbar-template-general-guest'); %>
     <main>
+        <header class="header-homepage">
+            <div class="header-searchbox-txt">
+                Browse Inventory
+            </div>
+            <form>
+                <select id="make">
+                    <option value="" disabled selected>Make</option>
+                    <% vehicles.forEach(function(vehicle) { %>
+                        <option value="<%= vehicle.make %>"><%= vehicle.make %></option>
+                    <% }); %>
+                </select>
+                
+                <select id="model">
+                    <option value="" disabled selected>Model</option>
+                    <!-- Options will be added here dynamically -->
+                </select>
+                
+                <select id="year">
+                    <option value="" disabled selected>Year</option>
+                    <!-- Options will be added here dynamically -->
+                </select>
+                <button type="submit">Search</button>
+            </form>
+            <div class="header-searchbox-txt">
+                OR
+            </div>
+            <button>Book a Service Appointment</button>
+        </header>
     </main>
+
     <script src="js/general.js"></script>
 </body>
 
